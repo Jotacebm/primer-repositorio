@@ -1,2 +1,3 @@
-# primer-repositorio
-Este es mi primer repositorio
+#Repositorio de Jotace
+Primer repositorio en git hub
+Modificano el texto del primer repositorio
